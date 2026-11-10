@@ -1,0 +1,87 @@
+{
+ "topic": "거북이",
+ "drive": "1HNIuPShRtWdadp0T2Xg8GWYzoEU9PYsA",
+ "banner": "거북이는 엉덩이로 숨 쉰다?",
+ "script": "거북이는 겨울잠을 물속에서 몇 달씩 자요. 그럼 숨은 어떻게 쉴까요? 정답은, 엉덩이예요! 어떤 거북이는 꼬리 쪽 구멍인 총배설강 벽에 가는 혈관이 가득해서, 물속 산소를 조금씩 빨아들여요. 겨울엔 물이 차가워서 몸이 거의 멈춘 상태라, 이 정도 산소로도 버틸 수 있죠. 산소가 모자라 몸에 젖산이 쌓이면, 등딱지 속 칼슘으로 중화까지 해요. 여러분이 아는 가장 이상한 동물 능력은 뭐예요? 다음 왜지는 댓글로!",
+ "clip_order_hint": [
+  1,
+  2,
+  2,
+  3,
+  4,
+  2,
+  5,
+  6,
+  1
+ ],
+ "C": [
+  [
+   "거북이는 [물속]에서\n몇 달씩 [겨울잠]!",
+   "Turtles hibernate [underwater] for months"
+  ],
+  [
+   "그럼 [숨]은\n어떻게 쉴까?",
+   "So how do they [breathe]?"
+  ],
+  [
+   "정답은… [엉덩이]!",
+   "The answer: the [butt]!"
+  ],
+  [
+   "[총배설강] 벽에\n가는 [혈관]이 가득",
+   "The [cloaca] is full of tiny [vessels]"
+  ],
+  [
+   "물속 [산소]를\n조금씩 빨아들여요",
+   "Absorbing [oxygen] from water"
+  ],
+  [
+   "차가운 물속에선 몸이\n거의 [멈춘] 상태",
+   "In cold water the body nearly [stops]"
+  ],
+  [
+   "쌓인 [젖산]은\n등딱지 [칼슘]으로 중화!",
+   "Shell [calcium] neutralizes [lactic acid]"
+  ],
+  [
+   "여러분이 아는 가장\n[이상한 동물 능력]은?",
+   "Weirdest [animal power] you know?"
+  ],
+  [
+   "다음 왜지는 [댓글]로!",
+   "Next 'Why?' in the [comments]!"
+  ]
+ ],
+ "ST": [
+  [
+   "엉덩이 호흡!",
+   [
+    235,
+    55,
+    60
+   ],
+   {},
+   "정답은 문장 동안"
+  ],
+  [
+   "총배설강",
+   [
+    45,
+    125,
+    255
+   ],
+   {},
+   "총배설강 문장"
+  ],
+  [
+   "등딱지 칼슘",
+   [
+    255,
+    145,
+    40
+   ],
+   {},
+   "젖산 문장"
+  ]
+ ]
+}
